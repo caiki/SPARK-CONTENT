@@ -71,6 +71,8 @@ https://www.youtube.com/playlist?list=PLzKHEB8QCel8UIA2JfUTYQaUgvJa6mUog
 
     https://spark.apache.org/docs/2.4.0/api/python/pyspark.sql.html
     
+    https://medium.com/@chris_bour/6-differences-between-pandas-and-spark-dataframes-1380cec394d2
+    
     
     
 
